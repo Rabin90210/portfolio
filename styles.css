@@ -209,3 +209,9 @@ padding-top: 20px;
   transform: scale(1);
   opacity: 1;
 }
+
+/*Projects */
+
+.project_img {
+  width: 100%;
+}
