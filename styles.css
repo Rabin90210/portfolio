@@ -407,4 +407,8 @@ h1{
 
 }
 
-@media
+@media (max-width:480px) {
+  .nav_link:not(:last-child) {
+display: none;
+  }
+}
